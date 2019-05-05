@@ -1,0 +1,17 @@
+.account {
+    float: left;
+    margin-left: 10px;
+    border: solid 1px red;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: red;
+}
+.account a {
+    color: white;
+}
+.account:hover {
+    background-color: white;
+}
+.account:hover a {
+    color: red;
+}
